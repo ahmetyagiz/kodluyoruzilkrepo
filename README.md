@@ -5,19 +5,22 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ## Installation
 Öncellikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
 
-https://github.com/akgogemrah/kodluyoruzilkrepo.git
+```
+git clone https://github.com/ahmetyagiz/kodluyoruzilkrepo.git
+```
 
 ## Usage
 Projeyi klonladıktan sonra visual studio Code da açınız.
 
 Linux için
 
-# code block cd kodluyoruzilkrepo
-
+```
+cd kodluyoruzilkrepo
 code .
+```
 
 ## Contributing
 Pull requestler kabul edilir, Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
-This site was built using MIT.
+[MIT](https://github.com/ahmetyagiz/kodluyoruzilkrepo)
